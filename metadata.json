@@ -1,0 +1,10 @@
+{
+  "name": "Social Sentiment Insight Dashboard",
+  "description": "An AI-powered dashboard for analyzing real-time social media sentiment using Gemini AI, featuring synthetic data simulation and professional analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "AI Sentiment Analysis",
+    "Real-time Data Visualization",
+    "Social Media Simulation"
+  ]
+}
